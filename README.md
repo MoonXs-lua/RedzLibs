@@ -1,3 +1,3 @@
  # RedzLibs-byRedzHub
 
- as livrarias não são minhas são do Redz
+ as livrarias não são minhas são do RedzHub
