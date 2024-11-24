@@ -2,7 +2,7 @@
 depois faço outra library Melhor
 ## Library
 ```lua
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/REDzHUB/LibraryV2/main/redzLib")))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/MoonXs-lua/RedzLibs/refs/heads/main/src/RedzlibV2/source.lua")))()
 ```
 
 ## Cria a janela Inicial
