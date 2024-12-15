@@ -5,7 +5,7 @@
 
 Library Source
 ```lua
-local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/MoonXs-lua/RedzLibs/refs/heads/main/src/RedzlibV3/source.lua"))()
+local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/Seven7-lua/RedzLibs/refs/heads/main/src/RedzlibV3/source.lua"))()
 ```
 Source Functions
 ```lua
